@@ -1,0 +1,17 @@
+
+http://www.php-fig.org/
+
+AUTOLOADING
+Autoloaders remove the complexity of including
+files by mapping namespaces to file system paths.
+PSR-4: Improved Autoloading
+
+INTERFACES
+Interfaces simplify the sharing of code between
+projects by following expected contracts.
+PSR-3: Logger Interface PSR-7: HTTP Message Interfaces
+
+CODING STYLES
+Standardized formatting reduces the cognitive friction
+when reading code from other authors.
+PSR-1: Basic Coding Standard PSR-2: Coding Style Guide

@@ -1,0 +1,4 @@
+[2016-01-18 17:08:34] name.WARNING: Foo [] []
+[2016-01-18 17:08:34] name.ERROR: Bar [] []
+[2016-01-18 17:08:35] name.WARNING: Foo [] []
+[2016-01-18 17:08:35] name.ERROR: Bar [] []
